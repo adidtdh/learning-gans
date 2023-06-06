@@ -1,0 +1,1 @@
+This is my attempt to learn GANs from This is my work based on this playlist https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va. this playlist https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va. 
